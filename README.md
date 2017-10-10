@@ -5,3 +5,5 @@
 * How to create playable audio
 * Pick random students and create random groups
 * How to use the ipythonblocks library for visualisation
+* HTML and JS right in the notebook!
+* Good LaTeX
