@@ -8,3 +8,4 @@
 * [HTML and JS right in the notebook!](html%20and%20js.ipynb)
 * [How to format a matrix in LaTeX, and where to get more information](LaTeX.ipynb)
 * [Application of a generator, a `defaultdict`, `ipythonblocks` and basic interactivity to run the Langton's Ant cellular automaton](Langton's%20Ant.ipynb)
+* [Frequentyly asked questions about our git workflow](git%20faq.ipynb)
